@@ -1,0 +1,21 @@
+Time taken for receiving model from server : 0.5477664471 Seconds OR 0.0091294 Minutes
+Time taken for training model : 0.000319480896 Seconds OR 5.3247e-06 Minutes
+Time taken for sending model to server : 0.02363538742 Seconds OR 0.00039392 Minutes
+Time taken for receiving model from server : 0.5385248661 Seconds OR 0.0089754 Minutes
+Time taken for training model : 0.00088763237 Seconds OR 1.4794e-05 Minutes
+Time taken for sending model to server : 2.876970291 Seconds OR 0.04795 Minutes
+Time taken for receiving model from server : 0.6155061722 Seconds OR 0.010258 Minutes
+Time taken for training model : 41.07468772 Seconds OR 0.68458 Minutes
+Time taken for sending model to server : 1.43723917 Seconds OR 0.023954 Minutes
+Time taken for receiving model from server : 0.6125407219 Seconds OR 0.010209 Minutes
+Time taken for training model : 27.25429487 Seconds OR 0.45424 Minutes
+Time taken for sending model to server : 3.027817965 Seconds OR 0.050464 Minutes
+Time taken for receiving model from server : 0.6022768021 Seconds OR 0.010038 Minutes
+Time taken for training model : 29.37837863 Seconds OR 0.48964 Minutes
+Time taken for sending model to server : 1.097057819 Seconds OR 0.018284 Minutes
+Time taken for receiving model from server : 0.5744957924 Seconds OR 0.0095749 Minutes
+Time taken for training model : 61.09817362 Seconds OR 1.0183 Minutes
+Time taken for sending model to server : 2.919608593 Seconds OR 0.04866 Minutes
+Time taken for receiving model from server : 0.5800871849 Seconds OR 0.0096681 Minutes
+Time taken for training model : 34.78114462 Seconds OR 0.57969 Minutes
+Time taken for sending model to server : 3.852568865 Seconds OR 0.064209 Minutes

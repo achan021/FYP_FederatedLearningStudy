@@ -1,0 +1,10 @@
+Total time taken to train 2 epoch : ----------34389.14442 seconds OR 573.15 Minutes
+--------------------
+EPOCH BREAKDOWN
+--------------------
+Time taken for epoch : 1----------17205.64267 seconds OR 286.76 Minutes
+Accuracy : 0.8874309392265194
+Loss : 0.27530675142674155
+Time taken for epoch : 2----------17183.27774 seconds OR 286.39 Minutes
+Accuracy : 0.9452117863720074
+Loss : 0.1371477864199004

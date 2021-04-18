@@ -1,0 +1,13 @@
+Total time taken to train 3 epoch : ----------20.34960842 seconds OR 0.33916 Minutes
+--------------------
+EPOCH BREAKDOWN
+--------------------
+Time taken for epoch : 1----------7.053383827 seconds OR 0.11756 Minutes
+Accuracy : 0.5833333333333334
+Loss : 0.6121052702267965
+Time taken for epoch : 2----------6.741589785 seconds OR 0.11236 Minutes
+Accuracy : 0.9166666666666666
+Loss : 0.33902068932851154
+Time taken for epoch : 3----------6.392416239 seconds OR 0.10654 Minutes
+Accuracy : 0.9166666666666666
+Loss : 0.18819047013918558

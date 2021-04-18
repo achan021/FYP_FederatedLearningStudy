@@ -1,0 +1,65 @@
+Total time taken to train 20 epoch : ----------232.1380646 seconds OR 3.869 Minutes
+--------------------
+EPOCH BREAKDOWN
+--------------------
+Time taken for epoch : 1----------15.1030786 seconds OR 0.25172 Minutes
+Accuracy : 0.6392463235294118
+Loss : 0.6364163449581932
+Time taken for epoch : 2----------11.19285989 seconds OR 0.18655 Minutes
+Accuracy : 0.6953125
+Loss : 0.5729885838706704
+Time taken for epoch : 3----------10.62485361 seconds OR 0.17708 Minutes
+Accuracy : 0.7541360294117647
+Loss : 0.49593915417790413
+Time taken for epoch : 4----------10.72546911 seconds OR 0.17876 Minutes
+Accuracy : 0.7830882352941176
+Loss : 0.4343035584041739
+Time taken for epoch : 5----------10.77349901 seconds OR 0.17956 Minutes
+Accuracy : 0.8221507352941176
+Loss : 0.37393154811990614
+Time taken for epoch : 6----------11.66524744 seconds OR 0.19442 Minutes
+Accuracy : 0.8354779411764706
+Loss : 0.33506564494660673
+Time taken for epoch : 7----------11.55885601 seconds OR 0.19265 Minutes
+Accuracy : 0.8791360294117647
+Loss : 0.26944442146786435
+Time taken for epoch : 8----------11.13358426 seconds OR 0.18556 Minutes
+Accuracy : 0.8897058823529411
+Loss : 0.25183594196021336
+Time taken for epoch : 9----------11.76317024 seconds OR 0.19605 Minutes
+Accuracy : 0.9067095588235294
+Loss : 0.20932423845549827
+Time taken for epoch : 10----------11.01067615 seconds OR 0.18351 Minutes
+Accuracy : 0.9333639705882353
+Loss : 0.17379082005251856
+Time taken for epoch : 11----------11.33843255 seconds OR 0.18897 Minutes
+Accuracy : 0.9411764705882353
+Loss : 0.13828062658328288
+Time taken for epoch : 12----------11.25355101 seconds OR 0.18756 Minutes
+Accuracy : 0.9296875
+Loss : 0.17284609600199688
+Time taken for epoch : 13----------10.20403218 seconds OR 0.17007 Minutes
+Accuracy : 0.9476102941176471
+Loss : 0.13249579151948532
+Time taken for epoch : 14----------10.01582146 seconds OR 0.16693 Minutes
+Accuracy : 0.9503676470588235
+Loss : 0.11783248654244423
+Time taken for epoch : 15----------10.20701528 seconds OR 0.17012 Minutes
+Accuracy : 0.9590992647058824
+Loss : 0.10211269000501488
+Time taken for epoch : 16----------10.5963943 seconds OR 0.17661 Minutes
+Accuracy : 0.9632352941176471
+Loss : 0.10757750428702446
+Time taken for epoch : 17----------14.36061978 seconds OR 0.23934 Minutes
+Accuracy : 0.9678308823529411
+Loss : 0.08459519392999937
+Time taken for epoch : 18----------12.42829657 seconds OR 0.20714 Minutes
+Accuracy : 0.9659926470588235
+Loss : 0.08887859076907369
+Time taken for epoch : 19----------12.60031939 seconds OR 0.21001 Minutes
+Accuracy : 0.9719669117647058
+Loss : 0.08020371390833081
+Time taken for epoch : 20----------13.55136371 seconds OR 0.22586 Minutes
+Accuracy : 0.9738051470588235
+Loss : 0.07686438697272238
+average testing acc == : 0.7965867158671587

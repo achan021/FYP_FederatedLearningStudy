@@ -1,0 +1,22 @@
+Total time taken to train 5 epoch : ----------136.5062058 seconds OR 2.2751 Minutes
+--------------------
+EPOCH BREAKDOWN
+--------------------
+Time taken for epoch : 1----------29.37237144 seconds OR 0.48954 Minutes
+Accuracy : 0.7366727941176471
+Loss : 0.5146204620216261
+Time taken for epoch : 2----------26.98386931 seconds OR 0.44973 Minutes
+Accuracy : 0.8313419117647058
+Loss : 0.3694438542075017
+Time taken for epoch : 3----------26.66471791 seconds OR 0.44441 Minutes
+Accuracy : 0.8851102941176471
+Loss : 0.2749504038570997
+Time taken for epoch : 4----------27.16043806 seconds OR 0.45267 Minutes
+Accuracy : 0.9149816176470589
+Loss : 0.21223559513985973
+Time taken for epoch : 5----------26.31982017 seconds OR 0.43866 Minutes
+Accuracy : 0.9370404411764706
+Loss : 0.16014644550159574
+average testing acc == : 0.8505535055350554
+average testing acc == : 0.8731549815498155
+average testing acc == : 0.8805350553505535
